@@ -30,6 +30,9 @@ public class Barco implements EnIsla{
         isla.adicione(this);
         
     }
+    public int prueba(){
+       return 1;
+    }
     /**
      * @return la forma numero 3 
      */
